@@ -1,0 +1,6 @@
+{
+  "name": "Bouncy Pop: Spiral Tower 3D",
+  "description": "A mobile-first 3D casual arcade game where you rotate a vibrant spiral tower to guide a bouncy monster through platform gaps, build fever combos, and smash to the bottom.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
